@@ -1,0 +1,27 @@
+h2 {
+	color: #464646;
+	font-family: Georgia, "Times New Roman", "Bitstream Charter", Times, serif;
+	font-size: 24px;
+	font-size-adjust: none;
+	font-stretch: normal;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 35px;
+	margin: 0;
+	padding: 14px 15px 3px 0;
+	text-shadow: 0 1px 0 #ffffff;
+}
+.gnote {
+	text-align: justify;
+	line-height: 8px !important;
+}
+.gnote small {
+	font-size: 8.5px !important;
+}
+input[type="checkbox"], input[type="radio"] {
+	margin-top: 8px;
+}
+input[type="radio"] {
+	vertical-align: text-bottom;
+}
